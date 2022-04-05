@@ -13,4 +13,4 @@
 ## Neden Kullanırız ?
 
 * Çok boyutlu veri setlerini kolay görselleştirebilmek.
-* Verileri sıkıştırmak
+* Verileri sıkıştırmak.
